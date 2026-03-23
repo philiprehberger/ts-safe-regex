@@ -1,10 +1,10 @@
 # Changelog
 
-All notable changes to this project will be documented in this file.
+## 0.1.1
 
-## [0.1.0] - 2026-03-21
+- Standardize package metadata, badges, and CHANGELOG
 
-### Added
+## 0.1.0
 
 - `isSafe()` — detect ReDoS-vulnerable regex patterns
 - `safeParse()` — compile a regex only if it passes safety checks

@@ -1,6 +1,6 @@
 {
   "name": "@philiprehberger/safe-regex",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Validate and sanitize regular expressions to prevent ReDoS attacks",
   "type": "module",
   "main": "./dist/index.cjs",
@@ -37,7 +37,7 @@
     "validate",
     "escape"
   ],
-  "author": "philiprehberger",
+  "author": "Philip Rehberger",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -48,7 +48,7 @@
   },
   "homepage": "https://github.com/philiprehberger/ts-safe-regex#readme",
   "engines": {
-    "node": ">=18"
+    "node": ">=18.0.0"
   },
   "devDependencies": {
     "tsup": "^8.0.0",
