@@ -3,6 +3,7 @@
 [![CI](https://github.com/philiprehberger/ts-safe-regex/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/ts-safe-regex/actions/workflows/ci.yml)
 [![npm version](https://img.shields.io/npm/v/@philiprehberger/safe-regex)](https://www.npmjs.com/package/@philiprehberger/safe-regex)
 [![License](https://img.shields.io/github/license/philiprehberger/ts-safe-regex)](LICENSE)
+[![Sponsor](https://img.shields.io/badge/sponsor-GitHub%20Sponsors-ec6cb9)](https://github.com/sponsors/philiprehberger)
 
 Validate and sanitize regular expressions to prevent ReDoS attacks.
 
