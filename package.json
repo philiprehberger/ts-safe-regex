@@ -1,6 +1,6 @@
 {
   "name": "@philiprehberger/safe-regex",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Validate and sanitize regular expressions to prevent ReDoS attacks",
   "type": "module",
   "main": "./dist/index.cjs",
